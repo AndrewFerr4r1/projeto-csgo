@@ -1,6 +1,7 @@
 # projeto-csgo
-<h1>Projeto da trybe</h1>
-Sistemas de ban de mapas para o CS:GO
+<h2>Projeto da trybe</h2>
+<img src="site/images/de_dust2">
+<b>Sistemas de ban de mapas para o CS:GO</b>
 
 <b>DIA 01</b><br><hr>
 <b>O que foi feito?</b><br>
