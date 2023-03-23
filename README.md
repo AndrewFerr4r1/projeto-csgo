@@ -1,6 +1,6 @@
 # projeto-csgo
 <h2>Projeto da trybe</h2>
-<img src="site/images/de_dust2">
+<img src="site/images/de_dust2.png">
 <b>Sistemas de ban de mapas para o CS:GO</b>
 
 <b>DIA 01</b><br><hr>
